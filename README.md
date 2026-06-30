@@ -8,4 +8,5 @@ Used for sharing .md files quickly -- links can be permanent
 
 ##  Cytoscape  
 cytoscape-visualization.MD    
-RCy3 could be used for making pathway overlays
+RCy3 could be used for making pathway overlays  
+https://github.com/cytoscape/RCy3
